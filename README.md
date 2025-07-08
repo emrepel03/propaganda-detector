@@ -66,4 +66,10 @@ To run the GUI demo (JavaFX-based):
 1. Make sure Java JDK 20 is installed.
 2. Compile and run the Java code in `code/gui` or via the `Main.java` file.
 
-You can test with demo texts to visualize classification results interactively.
+## 🔍 Demo Examples
+
+**Neutral Example**  
+<img src="demo/neutral_example.png" alt="Neutral Example" width="400"/>
+
+**Propaganda Example**  
+<img src="demo/propaganda_example.png" alt="Propaganda Example" width="400"/>
