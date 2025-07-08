@@ -69,7 +69,7 @@ To run the GUI demo (JavaFX-based):
 ## 🔍 Demo Examples
 
 **Neutral Example**  
-<img src="demo/neutral_example.png" alt="Neutral Example" width="400"/>
+<img src="demo/neutral_example.png" alt="Neutral Example" style="max-width: 100%;"/>
 
 **Propaganda Example**  
-<img src="demo/propaganda_example.png" alt="Propaganda Example" width="400"/>
+<img src="demo/propaganda_example.png" alt="Propaganda Example" style="max-width: 100%;"/>
