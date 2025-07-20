@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.h5
+*.npy
+*.npz
+*.env
+.env
+
+# Java
+*.class
+
+# Logs
+*.log
+
+# Text editor/IDE temp files
+*.swp
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# JetBrains Rider
+.idea/
+
+# JavaFX / Maven temp builds
+out/
+target/
+build/
